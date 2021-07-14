@@ -1,13 +1,13 @@
 {
-  "name": "insomnia-plugin-path-parameters",
-  "version": "1.0.3",
-  "author": "Gregory Schier <greg.schier@konghq.com>",
-  "description": "Insomnia plugin to enable URL path parameters in Query tab",
+  "name": "insomnia-plugin-url-parameters",
+  "version": "1.0",
+  "author": "Mario Visca <mvisca89@gmail.com>",
+  "description": "Insomnia plugin to enable URL parametrization based on the Query tab",
   "license": "MIT",
-  "repository": "https://github.com/gschier/insomnia-plugin-path-parameters",
+  "repository": "https://github.com/tostornudo/insomnia-plugin-url-path-parameters",
   "main": "index.js",
   "insomnia": {
-    "name": "path-parameters",
-    "description": "Define path parameters in Query tab"
+    "name": "url-parameters",
+    "description": "Define URL parameters in Query tab"
   }
 }
