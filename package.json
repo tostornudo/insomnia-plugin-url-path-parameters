@@ -4,7 +4,7 @@
   "author": "Mario Visca <mvisca89@gmail.com>",
   "description": "Insomnia plugin to enable URL parametrization based on the Query tab",
   "license": "MIT",
-  "repository": "https://github.com/tostornudo/insomnia-plugin-url-path-parameters",
+  "repository": "https://github.com/tostornudo/insomnia-plugin-url-parameters",
   "main": "index.js",
   "insomnia": {
     "name": "url-parameters",
